@@ -1,2 +1,2 @@
-# color-by
+# color-by-FROSTY 
 Welcome bot color
